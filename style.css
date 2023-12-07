@@ -1,0 +1,28 @@
+.header{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: end;
+    background-color: bisque;
+    height: 120px;
+    align-items: center;
+    width: 100%;
+}
+
+.navbar{
+    margin-right: 30%;
+}
+
+.container_{
+    display: flex-box;
+
+}
+
+.main{
+    display: flex-box;
+    flex-wrap: wrap;
+    width: 60%;
+    background-color: coral;
+    align-content: center;
+    justify-content: center;
+}
+
